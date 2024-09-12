@@ -9,8 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
+[![website](./img/globe-light.svg)](https://jagomeiister.github.io/Jagomeiister)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/@jagomeisterr?si=UoTrddaqm54ooqUy#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@jagomeisterr?si=UoTrddaqm54ooqUy#gh-dark-mode-only)
@@ -38,6 +37,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
+<br />
+<br />
+
 ---
 
 <details>
@@ -46,6 +48,3 @@
   <img align="left" alt="jagomeiister's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jagomeiister&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-- https://jagomeiister.github.io/Jagomeiister
-
-
